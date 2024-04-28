@@ -55,7 +55,7 @@
       "category": "Fashion",
       "title": "Summer Style Cruise - Beachside Fashion ",
       "content": "Get ready to revamp your summer wardrobe with the latest beachside fashion trends! From breezy dresses to chic swimsuits, discover the perfect ensemble for soaking up the sun. Whether you're cruising along the coast or lounging by the waves, embrace effortless style against the backdrop of crashing ocean waves and a picturesque beach scene. Dive into the season with confidence and flair!"
-    },
+    }
   ],
   "moreNews": [
     {
@@ -77,6 +77,6 @@
       "title": "Summer Skin Care Routines",
       "imageSrc": "summer_skin.jpg",
       "category": "Beauty"
-    },
+    }
   ]
 }
