@@ -58,26 +58,25 @@
     },
   ],
   "moreNews": [
-  {
-    "title": "Yoga for Life",
-    "imageSrc": "yoga_health.jpg",
-    "category": "Health"
-  },
-  {
-    "title": "Modern Home Decor Ideas",
-    "imageSrc": "home_decor.jpg",
-    "category": "Lifestyle"
-  },
-  {
-    "title": "Solo Traveler's Diary",
-    "imageSrc": "solo_travel.jpg",
-    "category": "Travels"
-  },
-  {
-    "title": "Summer Skin Care Routines",
-    "imageSrc": "summer_skin.jpg",
-    "category": "Beauty"
-  },
-]
-
+    {
+      "title": "Yoga for Life",
+      "imageSrc": "yoga_health.jpg",
+      "category": "Health"
+    },
+    {
+      "title": "Modern Home Decor Ideas",
+      "imageSrc": "home_decor.jpg",
+      "category": "Lifestyle"
+    },
+    {
+      "title": "Solo Traveler's Diary",
+      "imageSrc": "solo_travel.jpg",
+      "category": "Travels"
+    },
+    {
+      "title": "Summer Skin Care Routines",
+      "imageSrc": "summer_skin.jpg",
+      "category": "Beauty"
+    },
+  ]
 }
