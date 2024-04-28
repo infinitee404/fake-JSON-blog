@@ -2,7 +2,7 @@
   "news": [
     {
       "id": 1,
-      "imageSrc": "/images/bicycling.jpg",
+      "imageSrc": "https://cdn.pixabay.com/photo/2016/12/14/13/33/girl-1906405_1280.jpg",
       "date": "3 May, 2024",
       "category": "Adventure",
       "title": "Amazing Bicycling Adventures Around the World",
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "imageSrc": "/images/hiking.jpg",
+      "imageSrc": "https://cdn.pixabay.com/photo/2017/02/01/22/02/mountain-landscape-2031539_1280.jpg",
       "date": "29 April, 2024",
       "category": "Travels",
       "title": "Explore the Serenity of Hiking Trails",
@@ -18,7 +18,7 @@
     },
     {
       "id": 3,
-      "imageSrc": "/images/cooking.jpg",
+      "imageSrc": "https://cdn.pixabay.com/photo/2017/01/14/10/57/woman-1979272_1280.jpg",
       "date": "27 April, 2024",
       "category": "Health",
       "title": "Culinary Delights - Mastering the Art of Cooking",
@@ -26,7 +26,7 @@
     },
     {
       "id": 4,
-      "imageSrc": "/images/photography.jpg",
+      "imageSrc": "https://cdn.pixabay.com/photo/2016/01/09/18/27/camera-1130731_1280.jpg",
       "date": "27 April, 2024",
       "category": "Beauty",
       "title": "Capturing Moments - The Essence of Photography",
@@ -34,7 +34,7 @@
     },
     {
       "id": 5,
-      "imageSrc": "/images/gardening.jpg",
+      "imageSrc": "https://cdn.pixabay.com/photo/2024/04/08/14/09/nature-8683570_1280.jpg",
       "date": "25 April, 2024",
       "category": "Lifestyle",
       "title": "Green Fingers - Nurturing Your Garden",
@@ -42,7 +42,7 @@
     },
     {
       "id": 6,
-      "imageSrc": "/images/writing.jpg",
+      "imageSrc": "https://cdn.pixabay.com/photo/2015/09/05/07/28/writing-923882_1280.jpg",
       "date": "25 April, 2024",
       "category": "Personal Blog",
       "title": "The Art of Expression - Journey Through Writing",
@@ -50,11 +50,11 @@
     },
     {
       "id": 7,
-      "imageSrc": "/images/painting.jpg",
+      "imageSrc": "https://cdn.pixabay.com/photo/2016/11/23/17/25/woman-1853939_1280.jpg",
       "date": "24 April, 2024",
       "category": "Fashion",
-      "title": "Brush Strokes - Exploring the World of Painting",
-      "content": "Painting is a form of expression that transcends language and communicates directly to the soul. Whether it's vibrant abstracts, realistic portraits, or whimsical landscapes, each stroke of the brush captures the artist's vision and emotions. From exploring different mediums to experimenting with techniques, painting is a journey of endless discovery and creativity."
+      "title": "Summer Style Cruise - Beachside Fashion ",
+      "content": "Get ready to revamp your summer wardrobe with the latest beachside fashion trends! From breezy dresses to chic swimsuits, discover the perfect ensemble for soaking up the sun. Whether you're cruising along the coast or lounging by the waves, embrace effortless style against the backdrop of crashing ocean waves and a picturesque beach scene. Dive into the season with confidence and flair!"
     }
   ]
 }
