@@ -60,22 +60,22 @@
   "moreNews": [
     {
       "title": "Yoga for Life",
-      "imageSrc": "yoga_health.jpg",
+      "imageSrc": "https://cdn.pixabay.com/photo/2024/03/20/17/30/group-meditation-8646012_1280.jpg",
       "category": "Health"
     },
     {
       "title": "Modern Home Decor Ideas",
-      "imageSrc": "home_decor.jpg",
+      "imageSrc": "https://cdn.pixabay.com/photo/2017/09/09/18/25/living-room-2732939_1280.jpg",
       "category": "Lifestyle"
     },
     {
       "title": "Solo Traveler's Diary",
-      "imageSrc": "solo_travel.jpg",
+      "imageSrc": "https://cdn.pixabay.com/photo/2016/06/25/12/48/go-pro-1478810_1280.jpg",
       "category": "Travels"
     },
     {
       "title": "Summer Skin Care Routines",
-      "imageSrc": "summer_skin.jpg",
+      "imageSrc": "https://cdn.pixabay.com/photo/2021/12/22/03/10/self-care-6886590_1280.jpg",
       "category": "Beauty"
     }
   ]
