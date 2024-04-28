@@ -1,58 +1,60 @@
-[
+{
+  "news": [
     {
-        "id": 1,
-        "imageSrc": "/images/bicycling.jpg",
-        "date": "3 May, 2024",
-        "category": "Adventure",
-        "title": "Amazing Bicycling Adventures Around the World",
-        "content": "Bicycling is not just a mode of transportation but a way to explore the world's beauty at a slower pace. Whether it's the serene countryside lanes or challenging mountain trails, each journey on a bicycle brings new experiences and memories. From coastal routes to rugged terrains, embark on unforgettable adventures with your trusty two-wheeler."
+      "id": 1,
+      "imageSrc": "/images/bicycling.jpg",
+      "date": "3 May, 2024",
+      "category": "Adventure",
+      "title": "Amazing Bicycling Adventures Around the World",
+      "content": "Bicycling is not just a mode of transportation but a way to explore the world's beauty at a slower pace. Whether it's the serene countryside lanes or challenging mountain trails, each journey on a bicycle brings new experiences and memories. From coastal routes to rugged terrains, embark on unforgettable adventures with your trusty two-wheeler."
     },
     {
-        "id": 2,
-        "imageSrc": "/images/hiking.jpg",
-        "date": "29 April, 2024",
-        "category": "Travels",
-        "title": "Explore the Serenity of Hiking Trails",
-        "content": "Hiking offers a perfect opportunity to disconnect from the hustle and bustle of daily life and reconnect with nature. As you traverse through lush forests, rocky terrain, and breathtaking vistas, each step brings a sense of accomplishment and tranquility. From beginner-friendly paths to challenging treks, there's a trail out there for every adventurer."
+      "id": 2,
+      "imageSrc": "/images/hiking.jpg",
+      "date": "29 April, 2024",
+      "category": "Travels",
+      "title": "Explore the Serenity of Hiking Trails",
+      "content": "Hiking offers a perfect opportunity to disconnect from the hustle and bustle of daily life and reconnect with nature. As you traverse through lush forests, rocky terrain, and breathtaking vistas, each step brings a sense of accomplishment and tranquility. From beginner-friendly paths to challenging treks, there's a trail out there for every adventurer."
     },
     {
-        "id": 3,
-        "imageSrc": "/images/cooking.jpg",
-        "date": "27 April, 2024",
-        "category": "Health",
-        "title": "Culinary Delights - Mastering the Art of Cooking",
-        "content": "Cooking is not just about preparing meals; it's a form of self-expression and creativity. Exploring different ingredients, flavors, and techniques can elevate your culinary skills and nourish both body and soul. Whether you're whipping up a simple home-cooked meal or experimenting with gourmet recipes, the kitchen is your canvas to craft delicious masterpieces."
+      "id": 3,
+      "imageSrc": "/images/cooking.jpg",
+      "date": "27 April, 2024",
+      "category": "Health",
+      "title": "Culinary Delights - Mastering the Art of Cooking",
+      "content": "Cooking is not just about preparing meals; it's a form of self-expression and creativity. Exploring different ingredients, flavors, and techniques can elevate your culinary skills and nourish both body and soul. Whether you're whipping up a simple home-cooked meal or experimenting with gourmet recipes, the kitchen is your canvas to craft delicious masterpieces."
     },
     {
-        "id": 4,
-        "imageSrc": "/images/photography.jpg",
-        "date": "27 April, 2024",
-        "category": "Beauty",
-        "title": "Capturing Moments - The Essence of Photography",
-        "content": "Photography allows us to freeze moments in time and immortalize memories that would otherwise fade away. Whether it's capturing the beauty of landscapes, the intimacy of portraits, or the chaos of city life, each photograph tells a unique story. With the click of a shutter, photographers can transport viewers to different worlds and evoke a myriad of emotions."
+      "id": 4,
+      "imageSrc": "/images/photography.jpg",
+      "date": "27 April, 2024",
+      "category": "Beauty",
+      "title": "Capturing Moments - The Essence of Photography",
+      "content": "Photography allows us to freeze moments in time and immortalize memories that would otherwise fade away. Whether it's capturing the beauty of landscapes, the intimacy of portraits, or the chaos of city life, each photograph tells a unique story. With the click of a shutter, photographers can transport viewers to different worlds and evoke a myriad of emotions."
     },
     {
-        "id": 5,
-        "imageSrc": "/images/gardening.jpg",
-        "date": "25 April, 2024",
-        "category": "Lifestyle",
-        "title": "Green Fingers - Nurturing Your Garden",
-        "content": "Gardening is more than just a hobby; it's a way of life that connects us to the earth and its cycles. As you cultivate your garden, you not only beautify your surroundings but also foster a deeper appreciation for nature's wonders. From planting seeds to watching them grow into vibrant blooms or nourishing vegetables, every moment spent in the garden is a testament to life's resilience and beauty."
+      "id": 5,
+      "imageSrc": "/images/gardening.jpg",
+      "date": "25 April, 2024",
+      "category": "Lifestyle",
+      "title": "Green Fingers - Nurturing Your Garden",
+      "content": "Gardening is more than just a hobby; it's a way of life that connects us to the earth and its cycles. As you cultivate your garden, you not only beautify your surroundings but also foster a deeper appreciation for nature's wonders. From planting seeds to watching them grow into vibrant blooms or nourishing vegetables, every moment spent in the garden is a testament to life's resilience and beauty."
     },
     {
-        "id": 6,
-        "imageSrc": "/images/writing.jpg",
-        "date": "25 April, 2024",
-        "category": "Personal Blog",
-        "title": "The Art of Expression - Journey Through Writing",
-        "content": "Writing is a journey of self-discovery and expression, a way to articulate thoughts, emotions, and experiences into words. Whether it's through poetry, prose, or personal anecdotes, each piece of writing offers a glimpse into the writer's soul. From exploring imaginary worlds to reflecting on real-life struggles, writing allows us to connect with others and leave a lasting impact."
+      "id": 6,
+      "imageSrc": "/images/writing.jpg",
+      "date": "25 April, 2024",
+      "category": "Personal Blog",
+      "title": "The Art of Expression - Journey Through Writing",
+      "content": "Writing is a journey of self-discovery and expression, a way to articulate thoughts, emotions, and experiences into words. Whether it's through poetry, prose, or personal anecdotes, each piece of writing offers a glimpse into the writer's soul. From exploring imaginary worlds to reflecting on real-life struggles, writing allows us to connect with others and leave a lasting impact."
     },
     {
-        "id": 7,
-        "imageSrc": "/images/painting.jpg",
-        "date": "24 April, 2024",
-        "category": "Fashion",
-        "title": "Brush Strokes - Exploring the World of Painting",
-        "content": "Painting is a form of expression that transcends language and communicates directly to the soul. Whether it's vibrant abstracts, realistic portraits, or whimsical landscapes, each stroke of the brush captures the artist's vision and emotions. From exploring different mediums to experimenting with techniques, painting is a journey of endless discovery and creativity."
+      "id": 7,
+      "imageSrc": "/images/painting.jpg",
+      "date": "24 April, 2024",
+      "category": "Fashion",
+      "title": "Brush Strokes - Exploring the World of Painting",
+      "content": "Painting is a form of expression that transcends language and communicates directly to the soul. Whether it's vibrant abstracts, realistic portraits, or whimsical landscapes, each stroke of the brush captures the artist's vision and emotions. From exploring different mediums to experimenting with techniques, painting is a journey of endless discovery and creativity."
     }
-]
+  ]
+}
